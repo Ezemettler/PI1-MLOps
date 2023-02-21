@@ -64,7 +64,7 @@ Debes empezar desde 0, haciendo un trabajo rápido de **`Data Engineer`** y tene
 
 + Actor que más se repite según plataforma y año. (La función debe llamarse get_actor(platform, year))
 
-+ Desarrollo de consultas para API: [API - Consultas]([https://github.com/Ezemettler/PI1-MLOps/blob/main/ETL_Transformaciones.ipynb](https://github.com/Ezemettler/PI1-MLOps/blob/main/main.py))
++ Desarrollo de consultas para API: [API - Consultas](https://github.com/Ezemettler/PI1-MLOps/blob/main/main.py)
 
 <br/>
 
@@ -74,7 +74,7 @@ Debes empezar desde 0, haciendo un trabajo rápido de **`Data Engineer`** y tene
 Tambien sabes sobre [Railway](https://railway.app/) y [Render](https://render.com/docs/free#free-web-services) , aunque estos necesitan dockerizacion #Decisiones 👀
 
 + [Descarga API](https://deta.space/discovery/r/x57nr6v6wgq7xhfm)
-+ [Consultas API]()
++ [Consultas API](https://consultas_movie-1-e9551785.deta.app/docs)
 
 <br/>
 
