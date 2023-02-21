@@ -73,7 +73,6 @@ Debes empezar desde 0, haciendo un trabajo rápido de **`Data Engineer`** y tene
 
 Tambien sabes sobre [Railway](https://railway.app/) y [Render](https://render.com/docs/free#free-web-services) , aunque estos necesitan dockerizacion #Decisiones 👀
 
-+ [Descarga API](https://deta.space/discovery/r/x57nr6v6wgq7xhfm)
 + [Consultas API](https://consultas_movie-1-e9551785.deta.app/docs)
 
 <br/>
