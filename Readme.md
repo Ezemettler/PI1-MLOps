@@ -64,6 +64,7 @@ Debes empezar desde 0, haciendo un trabajo rápido de **`Data Engineer`** y tene
 
 + Actor que más se repite según plataforma y año. (La función debe llamarse get_actor(platform, year))
 
++ Desarrollo de consultas para API: [API - Consultas]([https://github.com/Ezemettler/PI1-MLOps/blob/main/ETL_Transformaciones.ipynb](https://github.com/Ezemettler/PI1-MLOps/blob/main/main.py))
 
 <br/>
 
@@ -72,15 +73,22 @@ Debes empezar desde 0, haciendo un trabajo rápido de **`Data Engineer`** y tene
 
 Tambien sabes sobre [Railway](https://railway.app/) y [Render](https://render.com/docs/free#free-web-services) , aunque estos necesitan dockerizacion #Decisiones 👀
 
++ [Descarga API](https://deta.space/discovery/r/x57nr6v6wgq7xhfm)
++ [Consultas API]()
+
 <br/>
 
 **`Análisis exploratorio de los datos`**: _(Exploratory Data Analysis-EDA)_
 
 Ya los datos están limpios, ahora es tiempo de investigar las relaciones que hay entre las variables de los datasets, ver si hay outliers o anomalías (que no tienen que ser errores necesariamente :eyes: ), y ver si hay algún patrón interesante que valga la pena explorar en un análisis posterior.  Sabes que puedes apoyarte en librerías como _pandas profiling, sweetviz, autoviz_, entre otros y sacar de allí tus conclusiones 😉
 
++ [EDA - Analisis exploratorio](https://github.com/Ezemettler/PI1-MLOps/blob/main/EDA_Analisis_exploratorio.ipynb)
+
 **`Sistema de recomendación`**: 
 
 Una vez que toda la data es consumible por la API ya lista para consumir para los departamentos de Analytics y de Machine Learning, y nuestro EDA bien realizado entendiendo bien los datos a los que tenemos acceso, es hora de entrenar nuestro modelo de machine learning para armar un sistema de recomendación de películas para usuarios, donde dado un id de usuario y una película, nos diga si la recomienda o no para dicho usuario. De ser posible, este sistema de recomendación debe ser deployado para tener una interfaz gráfica amigable para ser utilizada, utilizando Gradio o Deta Space para su deployment o bien con alguna solución como Streamlit o algo similar en local (tener el deployment del sistema de recomendación o una interfaz gráfica es un plus al proyecto).
+
++ [ML - Sistema de recomendación](https://github.com/Ezemettler/PI1-MLOps/blob/main/ML_Sistema_de_recomendaci%C3%B3n.ipynb)
 
 <br/>
 
