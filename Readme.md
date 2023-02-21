@@ -50,6 +50,8 @@ Debes empezar desde 0, haciendo un trabajo rápido de **`Data Engineer`** y tene
 
 + El campo ***duration*** debe convertirse en dos campos: **`duration_int`** y **`duration_type`**. El primero será un integer y el segundo un string indicando la unidad de medición de duración: min (minutos) o season (temporadas)
 
++ Podrán ver todas estas transformaciones aqui: [ETL - Transformaciones](https://github.com/Ezemettler/PI1-MLOps/blob/main/ETL_Transformaciones.ipynb)
+
 <br/>
 
 **`Desarrollo API`**:   Propones disponibilizar los datos de la empresa usando el framework ***FastAPI***. Las consultas que propones son las siguientes:
