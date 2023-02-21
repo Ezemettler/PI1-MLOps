@@ -94,6 +94,8 @@ Una vez que toda la data es consumible por la API ya lista para consumir para lo
 **`Video`**: Sabes que la documentacion es una etapa importante en cualquier trabajo 👀. Hiciste diversos procesos nuevos para la empresa y no tienes tiempo de dejar un informe con toda la informacion relevante en este momento! Pero eres recursivo 🙂, asi que grabas un video donde muestras todo lo que hiciste para mostrarselo a tu equipo y asi tod@s pueden enteder todo lo que hiciste y para que lo hiciste.
 
 <sub> **Spoiler**: El video DEBE durar no mas de ***7 minutos*** y DEBE mostrar las consultas requeridas en funcionamiento desde la API** y una breve explicacion del modelo entrenado para el sistema de recomendacion. <sub/>
+  
++ [Ir al video](https://youtu.be/nB_1qJ_7C_k)  
 
 <br/>
 
